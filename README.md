@@ -9,6 +9,6 @@ This is simple to-do application made with the PERN stack, i.e., PostgreSQL, Exp
  
  ### :wrench: Features
  
-       Create To-do
-       Edit To-do
-       Delete To-do
+   :pushpin: Create To-do
+   :pencil2:    Edit To-do
+   :x:    Delete To-do
