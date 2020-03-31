@@ -30,10 +30,7 @@ Any code editor of your choice
 
 ---
 
-1. Clone this repository into your local desktop using :  
-``` 
-www.github.com/pravzzyy/pern-todo
-```
+1. Clone this repository or download the zip file
 2. Open this repo on your code editor and cd into server and run the following command in the terminal :
 ```
 nodemone index
