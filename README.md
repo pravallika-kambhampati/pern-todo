@@ -24,7 +24,7 @@ This is simple to-do application made with the PERN stack, i.e., PostgreSQL, Exp
 _React and Express can be installed with npm_
 #### :computer: Code Editor :
 Any code editor of your choice 
-### :open_file_folder: Database Configuration :
+### :open_file_folder: PostgreSQL Configuration :
 - Create a database called "perntodo"
 - Create a table inside this database called "todo" with the schema given in database.sql file present in the server folder
 
